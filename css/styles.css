@@ -116,7 +116,13 @@ header {
   background: #A1C6D7;
 }
 
-
+a.btn-work-expe {
+  background-color: #2F3061;
+    padding: 10px;
+    border-radius: 4px;
+    color: #F7FFF7;
+    text-decoration:none;
+}
 
 /* Education
 ------------------------------------*/

@@ -151,3 +151,18 @@ footer {
   padding: 15px;
   display: inline-block;
 }
+/* Free time activites
+------------------------------------*/
+.gallery-container{
+  display: inline-flex;
+  justify-content: space-around;
+  /* padding: 20px; */
+
+}
+.hobby-image {
+  padding: 10px;
+}
+a.image-link:hover {
+  opacity: 0.5;
+
+}

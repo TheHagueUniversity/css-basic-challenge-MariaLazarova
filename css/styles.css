@@ -126,7 +126,7 @@ a.btn-work-expe {
 
 /* Education
 ------------------------------------*/
-.education {
+.education > div.content-wrap.item-details{
   background-image: url(../images/post-it.jpg);
   background-size: cover;
   background-position: top right;
